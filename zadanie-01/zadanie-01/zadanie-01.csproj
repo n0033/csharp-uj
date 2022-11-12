@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>zadanie_01</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="common\" />
+    <None Remove="common\models\" />
+    <None Remove="services\" />
+    <None Remove="common\interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="common\" />
+    <Folder Include="common\models\" />
+    <Folder Include="services\" />
+    <Folder Include="common\interfaces\" />
+  </ItemGroup>
+</Project>
