@@ -35,6 +35,7 @@ namespace zadanie_04_cont
                 keyExists = map.TryGetValue(character, out var value);
                 if (!keyExists)
                 {
+                    Console.WriteLine("PUSTE");
                     continue;
                 }
 
