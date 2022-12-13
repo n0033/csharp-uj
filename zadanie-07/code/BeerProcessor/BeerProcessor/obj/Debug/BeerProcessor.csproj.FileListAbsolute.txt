@@ -1,0 +1,9 @@
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\bin\Debug\BeerProcessor.dll
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\bin\Debug\BeerProcessor.pdb
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\bin\Debug\Common.dll
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\bin\Debug\Common.pdb
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\obj\Debug\BeerProcessor.csproj.AssemblyReference.cache
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\obj\Debug\BeerProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\obj\Debug\BeerProcessor.csproj.CopyComplete
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\obj\Debug\BeerProcessor.dll
+C:\Users\Norbert\source\repos\BeerProcessor\BeerProcessor\obj\Debug\BeerProcessor.pdb

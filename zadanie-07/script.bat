@@ -1,0 +1,1 @@
+Fabryka.exe "%cd%/BeerProcessor.dll;Piwo dla Jacka" "%cd%/SandwichProcessor.dll;Kanapka Jacusia" "%cd%/BeerProcessor.dll;Drugie piwo dla Jacka"

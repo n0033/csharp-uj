@@ -1,0 +1,15 @@
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\Fabryka.csproj.AssemblyReference.cache
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\Fabryka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\Fabryka.AssemblyInfoInputs.cache
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\Fabryka.AssemblyInfo.cs
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\Fabryka.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\bin\Debug\net6.0\Fabryka.exe
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\bin\Debug\net6.0\Fabryka.deps.json
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\bin\Debug\net6.0\Fabryka.runtimeconfig.json
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\bin\Debug\net6.0\Fabryka.dll
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\bin\Debug\net6.0\Fabryka.pdb
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\Fabryka.dll
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\refint\Fabryka.dll
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\Fabryka.pdb
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\Fabryka.genruntimeconfig.cache
+C:\Users\Norbert\source\repos\Fabryka\Fabryka\obj\Debug\net6.0\ref\Fabryka.dll
